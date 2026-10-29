@@ -1,2 +1,3 @@
 - GET /api/users
 - POST /api/users
+- DELETE /api/users/:id
